@@ -8,7 +8,7 @@ int main ()
 {
   //Sets the values to the length and height of the rectangle
   const int HEIGHT = 3;
-  int MAX = 40;
+  const int MAX = 40;
 
   //Randomizes the amount of hashtags for the recangle.
   unsigned seed = time(0);
